@@ -1,0 +1,4 @@
+hyperliquid-python-sdk==0.23.0
+PyYAML==6.0.3
+websocket-client==1.9.0
+pytest==9.0.3
